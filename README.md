@@ -36,4 +36,42 @@ Blinkit, a quick-commerce platform, delivers groceries and essentials within min
 ✅ A scalable framework adaptable for other quick-commerce businesses  
 
 ## 🖼️ Dashboard Images
-*(Attach images of the dashboard here)*
+
+## 1) Home_page :
+
+
+![Demo Image](https://github.com/smit012/Blinkit-Dashboard/blob/main/Dashboard_Image/Home.png)
+
+## 2) Overview_page :
+
+
+![Demo Image](https://github.com/smit012/Blinkit-Dashboard/blob/main/Dashboard_Image/Overview.png)
+
+## 3) Sales_page :
+
+
+![Demo Image](https://github.com/smit012/Blinkit-Dashboard/blob/main/Dashboard_Image/Sales.png)
+
+## 4) Customer_page :
+
+
+![Demo Image](https://github.com/smit012/Blinkit-Dashboard/blob/main/Dashboard_Image/Cutomer.png)
+
+## 5) Feedbaack_page :
+
+
+![Demo Image](https://github.com/smit012/Blinkit-Dashboard/blob/main/Dashboard_Image/Feedback.png)
+
+## 6) Inventory_page :
+
+
+![Demo Image](https://github.com/smit012/Blinkit-Dashboard/blob/main/Dashboard_Image/Inventory.png)
+
+## 7) Marketing_page :
+
+
+![Demo Image](https://github.com/smit012/Blinkit-Dashboard/blob/main/Dashboard_Image/Marketing.png)
+
+
+
+
