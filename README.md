@@ -1,5 +1,5 @@
 # Blinkit Power BI Dashboard
-#### PowerBi,Excel,SQL
+#### PowerBi, Excel, SQL, Figma
 
 ## 📌 Project Overview
 Blinkit, a quick-commerce platform, delivers groceries and essentials within minutes. Managing large volumes of data—orders, inventory, delivery times, and customer feedback—can be overwhelming. This Power BI dashboard provides a centralized visualization for efficient decision-making.
